@@ -6,4 +6,4 @@ A ReactJS app that have ability to search for a Github user and view information
 
 ## Live Website 
 
-[Github Finder] (https://githubfinderherdy.netlify.com/)
+[Github Finder](https://githubfinderherdy.netlify.com/).
